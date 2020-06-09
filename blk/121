@@ -5,7 +5,7 @@ most commands interpret a zero as a 1 so that they can have an
 effect.
 
 'g' selects the block specified by the modifier as the current
-block. Any change madde to the previously selected block is
+block. Any change made to the previously selected block is
 saved beforehand.
 
 '[' and ']' advance the selected block by modifier.
